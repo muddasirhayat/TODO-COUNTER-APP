@@ -1,0 +1,22 @@
+*{
+    background-color: rgb(206, 128, 33);
+    color: rgb(229, 69, 69);
+    align-items: center;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+
+}
+.box{
+    margin: 250px;
+}
+
+.btn{
+    background-color: rgb(37, 169, 149);
+    color: rgb(202, 31, 5);
+    border-radius: 50px;
+
+}
+.btn:hover{
+    background-color: rgb(9, 137, 77);
+    color: rgb(242, 239, 236);
+}
